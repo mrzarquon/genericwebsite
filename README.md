@@ -1,0 +1,4 @@
+genericwebsite
+==============
+
+A generic website
